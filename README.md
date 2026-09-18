@@ -18,10 +18,10 @@
 
 | 파일 | 부위 | 용도 |
 |---|---|---|
-| `deungsim.png` | 등심 | 구이 · 스테이크 |
-| `chaekkeut.png` | 채끝 | 구이 · 스테이크 |
-| `ansim.png` | 안심 | 스테이크 · 수육 |
-| `yangji.png` | 양지 | 국 · 찜 · 육개장 |
+| `hanwoo-deungsim.png` | 등심 | 구이 · 스테이크 |
+| `hanwoo-chaekkeut.png` | 채끝 | 구이 · 스테이크 |
+| `hanwoo-ansim.png` | 안심 | 스테이크 · 수육 |
+| `hanwoo-yangji.png` | 양지 | 국 · 찜 · 육개장 |
 
 구이용 셋에 국거리(양지) 하나를 넣었다. 구이용만 있으면 선물용으로만 읽힌다.
 
